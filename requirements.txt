@@ -1,0 +1,8 @@
+"""
+Requirements for ASCII Art Converter
+Install with: pip install -r requirements.txt
+"""
+
+opencv-python==4.8.1.78
+Pillow==10.0.1
+numpy==1.24.3
